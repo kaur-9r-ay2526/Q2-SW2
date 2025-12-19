@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+    background-position: cover;
+}
+
+.row{
+ background-position: cover;
+}
+
+.table {
+    width: 40%;
+}
+
+.form{
+    float: right;
+    margin-right: 40px ;
+    
+}
+.email {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10PX;
+}
+
+.password {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.remember {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
